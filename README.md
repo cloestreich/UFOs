@@ -15,8 +15,8 @@ By typing in Fresno as the filter, the result returns 1 match. Make sure to type
 
 ## Summary
 
-One drawback of this website is the ablity to update it with new UFO sightings.
+A drawback of this website is the ablity to update it with new UFO sightings and the filters require correct lower-case spellings and cannot include spaces at the end. 
 
-The website could be updated with a discussion board for fans to comment on post or share their own stories.
+A recommendation for the the website could be updated with a discussion board for fans to comment on post or share their own stories.
 
-The website could clean up the data to give the table a more uniform look (capitalizing locations, make the comments consistent and easy to read).
+Another recommendation would be that they could consider changing the format of date to "MM/DD/YYYY" so that international visitors can look for the correct date of a sighting.
