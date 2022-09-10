@@ -1,5 +1,5 @@
 # UFOs
-**just fyi...the app.py is the challenge file.  the app_1.py file is from the module.
+**just fyi...the app.py is the challenge file.  the app_1.py file is from the module.  They're located in the "js" folder inside the "statice" folder.
 
 ## Purpose of Analysis
 To create a web page with HTML, CSS, Bootstrap, and JavaScript that will be able to filter UFO sightings on multiple criteria.
